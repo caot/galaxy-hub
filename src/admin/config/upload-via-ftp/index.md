@@ -57,7 +57,7 @@ We compile by hand using the following configure arguments (OpenSSL is prebuilt 
 ```
 
 
-An example configuration follows, assuming `ftp_upload_dir = /home/nate/galaxy_dist/database/ftp` in the Galaxy config file:
+An example configuration follows, assuming `ftp_upload_dir = /home/nate/galaxy_dist/database/ftp` in the Galaxy config file /etc/proftpd.conf:
 
 ```apacheconf
 
